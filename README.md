@@ -7,7 +7,7 @@
 | [jsbn](https://github.com/modern-dev/jsbn) | | | ![npm](https://img.shields.io/npm/v/@modern-dev/jsbn) | ![NPM](https://img.shields.io/npm/l/@modern-dev/jsbn) | |
 | [mtproto](https://github.com/modern-dev/mtproto) | | | | ![GitHub](https://img.shields.io/github/license/modern-dev/mtproto) | |
 | [synogo](https://github.com/modern-dev/synogo) | | | | ![GitHub](https://img.shields.io/github/license/modern-dev/synogo) | |
-| [vine-client-dotnet](https://github.com/modern-dev/vine-client-dotnet) | [![Build status](https://ci.appveyor.com/api/projects/status/kwhrau8wsj59hy99?svg=true)](https://ci.appveyor.com/project/virtyaluk/vine-client-dotnet) | | [![NuGet](https://img.shields.io/nuget/v/VineClient.svg?maxAge=7200)](https://www.nuget.org/packages/VineClient/) | ![GitHub](https://img.shields.io/github/license/modern-dev/vine-client-dotnet) | :warning: Deprecated |
+| ~~[vine-client-dotnet](https://github.com/modern-dev/vine-client-dotnet)~~ | [![Build status](https://ci.appveyor.com/api/projects/status/kwhrau8wsj59hy99?svg=true)](https://ci.appveyor.com/project/virtyaluk/vine-client-dotnet) | | [![NuGet](https://img.shields.io/nuget/v/VineClient.svg?maxAge=7200)](https://www.nuget.org/packages/VineClient/) | ![GitHub](https://img.shields.io/github/license/modern-dev/vine-client-dotnet) | :warning: Deprecated |
 | [dice](https://github.com/modern-dev/dice) | [![Build status](https://ci.appveyor.com/api/projects/status/7tms0gm6uivv2d84?svg=true)](https://ci.appveyor.com/project/virtyaluk/dice) | | [![NuGet](https://img.shields.io/nuget/v/ModernDev.Dice.svg?maxAge=7200)](https://www.nuget.org/packages/ModernDev.Dice/) | ![GitHub](https://img.shields.io/github/license/modern-dev/dice) | |
 
 
